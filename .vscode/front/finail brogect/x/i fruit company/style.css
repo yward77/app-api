@@ -68,7 +68,7 @@
 }
 
 .body2 .text p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.6;
   color: #333;
 }
@@ -76,6 +76,7 @@
 .body2 .image img {
   width: 300px;
   border-radius: 50px;
+  margin-top: 8rem;
 }
 .logo2{
     width: 200px;
